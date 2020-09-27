@@ -2,6 +2,7 @@
 
 <h3>Libraries</h3>
 <div>
+  <p>To be able to run this notebook you will need to install the following libraries.</p>
   <ul>
       <li>
          <a href="url">link Pandas</a>
@@ -17,6 +18,29 @@
       </li>
   </ul>
 </div>
+
+<h3> Introduction </h3>
+
+<div>
+  <p>
+    For this project i completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings.
+  </p>
+ <p>
+   I focused on answering the following questions:
+   
+   <ol>
+    <li>Do guests value hosts with Superhost status?</li>
+    <li>How does charging a cleaning fee affect the listing price and demand?</li>
+   <li>How important is the property type in relation to listing price?</li>
+  </ol>
+</p>
+</div>
+
+  
+  
+  
+        
+
  
  
  
