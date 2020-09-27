@@ -23,7 +23,7 @@
 
 <div>
   <p>
-    For this project i completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings. I used a Jupyter Notebook to complete this analysis and can be found in the ```Udacity Project 1.ipnb``` file.
+    For this project i completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings. I used a Jupyter Notebook to complete this analysis and can be found in the Udacity Project 1.ipynb file.
   </p>
  <p>
    I focused my analysis on answering the following questions:
@@ -34,7 +34,18 @@
    <li>How important is the property type in relation to listing price?</li>
   </ol>
 </p>
+<p>
+  In my analysis i have also created a linear regression model to try and predict the listing price.
+ </p>
 </div>
+
+<H3>Conclusions</h3>
+
+<div>
+  <p>
+    My conclusions for this analysis can be found on my blog post here: <a href = "url"> Link</a> 
+  </p>
+    
 
   
   
