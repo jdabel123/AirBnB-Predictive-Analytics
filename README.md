@@ -25,7 +25,7 @@
 
 <div>
   <p>
-    For this project i completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings. I used a Jupyter Notebook to complete this analysis and can be found in the Udacity Project 1.ipynb file.
+    For this project I completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings. I used a Jupyter Notebook to complete this analysis and can be found in the Udacity Project 1.ipynb file.
   </p>
  <p>
    I focused my analysis on answering the following questions:
@@ -45,7 +45,7 @@
 
 <div>
   <p>
-    My conclusions for this analysis can be found on my blog post here: <a href = "url"> Link</a> 
+    My conclusions for this analysis can be found on my blog post here: <a href = "https://medium.com/@johnabel1997/sleeping-sound-in-seattle-5845d551e93e"> Link</a> 
   </p>
     
 
