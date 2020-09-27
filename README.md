@@ -5,17 +5,19 @@
   <p>To be able to run this notebook you will need to install the following libraries.</p>
   <ul>
       <li>
-         <a href="url">link Pandas</a>
+         <a href="https://pandas.pydata.org/">link Pandas</a>
       </li>
       <li>
-        <a href = "url"> Seaborn </a>
+        <a href = "https://seaborn.pydata.org/"> Seaborn </a>
       </li>
       <li>  
-         <a href = "url"> matplotlib </a>
+         <a href = "https://matplotlib.org/"> matplotlib </a>
       </li>
       <li>
-        <a href = "url"> Scikit-learn </a>
+        <a href = "https://scikit-learn.org/stable/"> Scikit-learn </a>
       </li>
+      <li>
+        <a href="https://numpy.org/"> Numpy</a>
   </ul>
 </div>
 
