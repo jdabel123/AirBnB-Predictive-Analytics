@@ -23,8 +23,7 @@
 
 <div>
   <p>
-    For this project i completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings. I used a Jupyter Notebook to complete this analysis and can be found in the <span style="bgcolor:grey">
-    Udacity Project 1.ipnb </span> file.
+    For this project i completed an analysis of Seattle Airbnb listings, which the dataset is available on kaggle <a href="url">link here</a>. I focused solely on the listings.csv dataset, which included information about 38000 listings. I used a Jupyter Notebook to complete this analysis and can be found in the 'Udacity Project 1.ipnb' file.
   </p>
  <p>
    I focused my analysis on answering the following questions:
