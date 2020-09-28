@@ -49,6 +49,15 @@
   <p>
     My conclusions for this analysis can be found on my blog post here: <a href = "https://medium.com/@johnabel1997/sleeping-sound-in-seattle-5845d551e93e"> Link</a> 
   </p>
+ </div>
+ 
+ 
+<h3>Licensing, Authotrs and Acknowledgements</h3>
+
+<br>
+<p>
+   I must give credit to Airbnb for providing this dataset on Kaggle. You can find the licensing and descriptive information about the dataset on the kaggle link
+ </p>
     
 
   
