@@ -56,7 +56,7 @@
 
 <br>
 <p>
-   I must give credit to Airbnb for providing this dataset on Kaggle. You can find the licensing and descriptive information about the dataset on the kaggle link
+   I must give credit to Airbnb for providing this dataset on Kaggle. You can find the licensing and descriptive information about the dataset on the kaggle link in the introduction.
  </p>
     
 
