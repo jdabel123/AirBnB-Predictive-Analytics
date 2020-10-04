@@ -52,7 +52,7 @@
  </div>
  
  
-<h3>Licensing, Authotrs and Acknowledgements</h3>
+<h3>Licensing, Authors and Acknowledgements</h3>
 
 <br>
 <p>
